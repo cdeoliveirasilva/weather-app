@@ -1,0 +1,11 @@
+<svg id="bg-wave" xmlns="http://www.w3.org/2000/svg" width="3376.304" height="2765.251" viewBox="0 0 3376.304 2765.251">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffede0;
+        opacity: 0.491;
+      }
+    </style>
+  </defs>
+  <path id="Path_1" data-name="Path 1" class="cls-1" d="M0-1.261c1171.322,1904.442,1496.7,601.7,2332.6,1350.6s513.167-705.53,513.167-705.53V1883.385H0Z" transform="translate(0.431 995.448) rotate(-20)"/>
+</svg>
